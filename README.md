@@ -3,7 +3,7 @@
 
 - 🔭 This is my last project on Bootcamp [Players 4 Players](https://players4players.herokuapp.com/)
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently working with **Ruby on Rails**
 
 - 👯 I’m looking to collaborate on **fun projects**
 
