@@ -1,20 +1,17 @@
 <h1 align="center">Hi 👋, I'm Gabriella Garcia</h1>
 <h3 align="center">I'm a backenddeveloper from Brasil</h3>
 
-- 🔭 This is my last project on Bootcamp [Players 4 Players](https://players4players.herokuapp.com/)
-
 - 🌱 I’m currently working with **Ruby on Rails** and *Python*
 
 - 👯 I’m looking to collaborate on **fun projects**
 
-- 💬 Ask me about **Ruby** and *Python*
+- 💬 Ask me about **Ruby**, *Python*
 
-- 📫 How to reach me **gabirvargas@gmail.com**
+- 📫 How to reach me **gabriella.rv.garcia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabriella-rv-garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriella-rv-garcia" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17736153/gabriella-garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17736153/gabriella-garcia" height="30" width="40" /></a>
 <a href="https://instagram.com/gabslol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabslol" height="30" width="40" /></a>
 </p>
 
