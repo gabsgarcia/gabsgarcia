@@ -1,6 +1,6 @@
 # Gabriella Garcia
 
-**Full-stack developer and Le Wagon teacher.** I build websites, web apps and AI-powered products, and I spend my weeks teaching people how to do the same.
+**Full-stack developer and Le Wagon teacher.** I graduated from the Le Wagon bootcamp in December 2021 and now teach it. I build websites, web apps and AI-powered products, and I spend my weeks teaching people how to do the same.
 
 Open to **freelance projects** and **full-time or contract roles** · Brazil, working remotely in Portuguese and English
 
@@ -53,7 +53,7 @@ Many other repositories here are livecodes and boilerplates from my classes at L
 
 <br>
 
-**Desenvolvedora full-stack e professora na Le Wagon.** Faço sites, aplicações web e produtos com IA, e passo a semana ensinando outras pessoas a fazer o mesmo.
+**Desenvolvedora full-stack desde 2021 e professora na Le Wagon**, onde me formei em dezembro de 2021. Faço sites, aplicações web e produtos com IA, e passo a semana ensinando outras pessoas a fazer o mesmo.
 
 Disponível para **projetos freelance** e **vagas CLT ou PJ**, remoto, em português e inglês.
 
