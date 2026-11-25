@@ -1,19 +1,66 @@
-<h1 align="center">Hi 👋, I'm Gabriella Garcia</h1>
-<h3 align="center">I'm a backenddeveloper from Brasil</h3>
+# Gabriella Garcia
 
-- 🌱 I’m currently working with **Ruby on Rails** and *Python*
+**Full-stack developer and Le Wagon teacher.** I graduated from the Le Wagon bootcamp in December 2021 and now teach it. I build websites, web apps and AI-powered products, and I spend my weeks teaching people how to do the same.
 
-- 👯 I’m looking to collaborate on **fun projects**
+Open to **freelance projects** and **full-time or contract roles** · Brazil, working remotely in Portuguese and English
 
-- 💬 Ask me about **Ruby**, *Python*
+[LinkedIn](https://linkedin.com/in/gabriella-rv-garcia) · [gabriella.rv.garcia@gmail.com](mailto:gabriella.rv.garcia@gmail.com)
 
-- 📫 How to reach me **gabriella.rv.garcia@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gabriella-rv-garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriella-rv-garcia" height="30" width="40" /></a>
-<a href="https://instagram.com/gabslol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabslol" height="30" width="40" /></a>
+### What I build
+
+- **Websites for small businesses:** fast, mobile-first, easy to find on Google, with WhatsApp and contact built in.
+- **Products with AI inside:** apps where the AI does real work and says when it isn't sure.
+- **Web apps and internal systems:** Ruby on Rails or Next.js, with auth, database and deploy.
+- **Data pipelines:** cleaning, modelling and checking data so the numbers can be trusted.
+
+### Featured work
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**RongAlong**](https://rongalong.vercel.app) | Sing Thai songs without reading Thai: line-by-line romanization and translation, with a warning on the lines where the AI isn't sure and a way for fans to fix them. Live, with accounts and a karaoke mode. | Next.js · Supabase · Claude API · Vercel |
+| [**Job Tracker**](https://github.com/gabsgarcia/job-tracker) | Kanban board for job applications, with AI quick-add from a job link and stats. | Next.js · TypeScript · Supabase · Claude API |
+| [**Airbnb Rio data project**](https://github.com/gabsgarcia/analytics_engineering_project) | Data engineering and quality checks on the Inside Airbnb dataset for Rio de Janeiro. | Python · SQL |
+
+Many other repositories here are livecodes and boilerplates from my classes at Le Wagon.
+
+### How I work
+
+1. **Understand the problem before writing code.** I start with a short product brief: who it is for, what hurts, what the smallest useful version is.
+2. **Ship small, ship early.** One branch per feature, a preview link for every change, so you see progress every few days instead of a big reveal at the end.
+3. **AI as a tool, not an autopilot.** I use AI to move faster, and I review, test and take responsibility for everything that ships. No generic templates, no unreviewed output.
+4. **Quality checklist before launch:** works on a phone, loads fast, is accessible, and has real copy instead of filler.
+5. **You leave understanding what you own.** Every project ends with a clear handover: how it works, how to update it, what it costs to run.
+
+### What teaching brings to freelance work
+
+- **Explaining technical things in plain words.** I do it every day with students, so clients always know what is happening and why.
+- **Reading and fixing other people's code fast.** Debugging dozens of student projects at once is great training for picking up an existing codebase.
+- **Code review as a habit.** I review code daily, which is exactly the skill that matters most now that AI writes so much of it.
+- **Learning new stacks quickly**, and structuring work so it can be picked up by someone else.
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ruby,rails,ts,js,nextjs,react,supabase,postgres,tailwind,python,git,vercel,heroku,figma" alt="Ruby, Rails, TypeScript, JavaScript, Next.js, React, Supabase, PostgreSQL, Tailwind, Python, Git, Vercel, Heroku, Figma" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
+
+<details>
+<summary><b>Em português</b></summary>
+
+<br>
+
+**Desenvolvedora full-stack desde 2021 e professora na Le Wagon**, onde me formei em dezembro de 2021. Faço sites, aplicações web e produtos com IA, e passo a semana ensinando outras pessoas a fazer o mesmo.
+
+Disponível para **projetos freelance** e **vagas CLT ou PJ**, remoto, em português e inglês.
+
+**O que eu faço:** sites rápidos para pequenos negócios, produtos com IA de verdade dentro, sistemas web em Rails ou Next.js e pipelines de dados.
+
+**Como eu trabalho:** entendo o problema antes de codar, entrego em partes pequenas com link de prévia a cada mudança, uso IA como ferramenta e reviso tudo o que vai ao ar, sigo um checklist de qualidade antes de publicar e termino cada projeto explicando ao cliente como tudo funciona.
+
+**O que dar aula me trouxe:** explicar tecnologia em palavras simples, ler e corrigir código dos outros rápido, revisar código todos os dias e aprender stacks novas com facilidade.
+
+</details>
