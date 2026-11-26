@@ -4,7 +4,7 @@
 
 Open to **freelance projects** and **full-time or contract roles** · Brazil, working remotely in Portuguese and English
 
-[LinkedIn](https://linkedin.com/in/gabriella-rv-garcia) · [gabriella.rv.garcia@gmail.com](mailto:gabriella.rv.garcia@gmail.com)
+**[Portfolio](https://portfolio-gabigarcia.vercel.app)** · [LinkedIn](https://linkedin.com/in/gabriella-rv-garcia) · [gabriella.rv.garcia@gmail.com](mailto:gabriella.rv.garcia@gmail.com)
 
 ---
 
